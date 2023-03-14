@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+    width: 500px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h1, h2, h3, p {
+    text-align: center;
+}
+
+div.container {
+    padding: auto;
+    text-align: center;
+    border: 1px solid black;
+    width: 300px;
+}
